@@ -29,7 +29,6 @@ To get started, follow these simple steps:
 1. **Clone the repository** to your local machine:
     ```bash
     git clone https://github.com/YashGhavghave/Face_Expression_Recognition.git
-    cd Face_Expression_Recognition
     ```
 
 2. **Move to directory** to your local machine:
