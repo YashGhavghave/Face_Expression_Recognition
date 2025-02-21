@@ -47,11 +47,10 @@ To get started, follow these simple steps:
 ## 📂 **Project Structure**
 Here's the file structure for easy navigation:
 
-├── LSTM_CNN.h5 # Trained CNN-LSTM model
-├── App.py # Main app script for real-time detection
-├── README.md # Project documentation (You're reading this!)
-├── requirements.txt # List of dependencies
-
+├── LSTM_CNN.h5                # Trained CNN-LSTM model
+├── train_model.py             # Model training script
+├── real_time_detection.py     # Real-time facial expression recognition
+├── README.md                  # Project documentation
 
 ---
 
