@@ -47,7 +47,10 @@ To get started, follow these simple steps:
 ## 📂 **Project Structure**
 Here's the file structure for easy navigation:
 
-├── LSTM_CNN.h5 # Trained CNN-LSTM model ├── App.py # Main app script for real-time detection ├── README.md # Project documentation ├── requirements.txt 
+├── LSTM_CNN.h5 # Trained CNN-LSTM model
+├── App.py # Main app script for real-time detection
+├── README.md # Project documentation (You're reading this!)
+├── requirements.txt # List of dependencies
 
 
 ---
