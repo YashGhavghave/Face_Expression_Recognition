@@ -41,17 +41,6 @@ To get started, follow these simple steps:
     ```bash
     pip install -r requirements.txt
     ```
-
----
-
-## 📂 **Project Structure**
-Here's the file structure for easy navigation:
-
-├── LSTM_CNN.h5                # Trained CNN-LSTM model
-├── train_model.py             # Model training script
-├── real_time_detection.py     # Real-time facial expression recognition
-├── README.md                  # Project documentation
-
 ---
 
 ## 🔍 **Model Architecture**
