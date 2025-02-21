@@ -32,7 +32,12 @@ To get started, follow these simple steps:
     cd Face_Expression_Recognition
     ```
 
-2. **Install the required dependencies**:
+2. **Move to directory** to your local machine:
+    ```bash
+    cd Face_Expression_Recognition
+    ```
+
+3. **Install the required dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
